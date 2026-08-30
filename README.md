@@ -1,9 +1,9 @@
-- Hi, I'm Jack
-- Im a Maths and Computer Science Undergrad at Durham University
-- I am currently learning Python, Java and C++
-- Reach me at jackkelso15@gmail.com
-<!---
-Ke15o/Ke15o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Jack
 
+I'm a Mathematics and Computer Science undergraduate at Durham University, interested in data science, statistics and software engineering.
+
+- Currently building projects in Python, TypeScript and JavaScript
+- Developing my skills in data analysis, statistics and machine learning
+- Learning Java and C++
+- Interested in software testing and quality assurance
+- Contact: jackkelso15@gmail.com
