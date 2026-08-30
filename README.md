@@ -1,4 +1,4 @@
-# Hi, I'm Jack
+# Hi, I'm Jack 👋
 
 I'm a Mathematics and Computer Science undergraduate at Durham University, interested in data science, statistics and software engineering.
 
